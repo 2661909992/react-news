@@ -73,7 +73,7 @@ PS：暂不展示在线 Demo
 
 ## 版本控制
 
-​	该项目使用 [SemVer](http://semver.org/) 进行版本管理。您可以在 [repository](https://github.com/your/project/tags) 参看当前可用版本。
+​	该项目使用 [SemVer](http://semver.org/) 进行版本管理。您可以在 [repository](https://github.com/your/project/tags) 参看当前可用版本。(请忽略此信息)
 
 ## 作者
 
