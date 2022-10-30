@@ -95,8 +95,15 @@ PS：您也可以在 [贡献者名单.md](https://github.com/2661909992/react-ne
 ## 部分页面截图
 
 ![Home1](https://user-images.githubusercontent.com/84703480/198866731-19a81af6-7bd8-4b1d-a5c5-db1fa2a43678.png)
+
 ![Home2](https://user-images.githubusercontent.com/84703480/198866737-aeeca16c-8688-4696-bfba-42ce20768c2d.png)
+
 ![UserManage](https://user-images.githubusercontent.com/84703480/198866744-24a42de1-2e78-4f87-89df-d3e02e7495fa.png)
+
 ![RightManage](https://user-images.githubusercontent.com/84703480/198866746-4defada1-b3c1-464b-b390-ab1cab5629b8.png)
+
 ![Audit](https://user-images.githubusercontent.com/84703480/198866748-d3d0d752-3938-47e0-b016-9e747585e5b5.png)
+
 ![AuditList](https://user-images.githubusercontent.com/84703480/198866750-4199f0db-b34c-45a9-848a-65db505f6912.png)
+
+![NewsPreview](https://user-images.githubusercontent.com/84703480/198866930-3a0e07e1-5ac9-428f-a720-193b93850880.png)
