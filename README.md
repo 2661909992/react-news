@@ -63,9 +63,9 @@ PS：暂不展示在线 Demo
 
 ## 使用到的框架
 
-* 涉及技术栈：react@18、reactRouter@5、redux@4、antd@4
-* 第三方工具库：axios@0.27、echarts、lodash、NProgress等
-* 据个人了解 node14-16 可用
+* 涉及技术栈：`react@18`、`reactRouter@5`、`redux@4`、`antd@4`
+* 第三方工具库：`axios@0.27`、`echarts`、`lodash`、`NProgress` 等
+* 据个人了解 `node`14-16 可用
 
 ## 贡献者
 
