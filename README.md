@@ -77,7 +77,7 @@ PS：暂不展示在线 Demo
 
 ## 作者
 
-* **NNPB** - *前端开发和维护* - [公司名(无)](https://github.com/PurpleBooth)
+* **NNPB** - *前端开发和维护* - [公司名(无)](https://github.com/2661909992)
 
 PS：您也可以在 [贡献者名单.md](https://github.com/2661909992/react-news/edit/main/README.md) 中参看所有参与该项目的开发者。
 
@@ -87,7 +87,7 @@ PS：您也可以在 [贡献者名单.md](https://github.com/2661909992/react-ne
 
 ## 鸣谢
 
-* 该项目参考了 **破站**  里 **千锋教育 kerwin老师** 主讲的 [课程](https://www.bilibili.com/video/BV1dP4y1c7qd?p=152&vd_source=dd831bffe2fbc3e5e70e5aabbee73fe4) ，课程风趣，非常感谢。
+* 该项目参考了 **破站**  里 **千锋教育 kerwin老师** 主讲的 [课程](https://www.bilibili.com/video/BV1dP4y1c7qd?p=152&vd_source=dd831bffe2fbc3e5e70e5aabbee73fe4) ，课程风趣，尤其是 自定义`hooks`，将页面中组件、业务逻辑相似的部分抽离、封装的部分受益匪浅，非常感谢。
 * README.md 文档的灵感来源于写 [这篇博客](https://blog.csdn.net/shiyanlou_chenshi/article/details/86623534) 的作者，感谢翻译。
 * 感谢亲朋好友的支持和陪伴。
 
